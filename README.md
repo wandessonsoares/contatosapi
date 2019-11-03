@@ -3,7 +3,7 @@
 ### O que é a aplicação?
   Uma api que mantém dados de Contatos (semelhante a uma agenda telefônica)
   - Tecnologias utilizadas:
-    * MySQ
+    * MySQL
     * JDK 1.8
     * Maven 3
     * Spring Boot
