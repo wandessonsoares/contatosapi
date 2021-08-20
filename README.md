@@ -19,7 +19,7 @@
     * Permitir adicionar contatos em Grupos
 
 ### Instruções para executar o projeto
-	Realize os seguintes passos:
+	Realize os passos a seguir:
 	
 	  1. No MySQL, crie o banco de dados "contatos_apirest" e, em seguida, execute o script "contatos_apirest.sql" para que 
 	  sejam criadas e populadas as tabelas com dados iniciais;
